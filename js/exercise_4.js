@@ -5,7 +5,7 @@
 var mapId = 'plemoda.019h3lpa';
 
 // And this is my access token, use yours.
-var accessToken = 'pk.eyJ1Ijoid2lsbC1icmVpdGtyZXV0eiIsImEiOiItMTJGWEF3In0.HEvuRMMVxBVR5-oDYvudxw';
+var accessToken = 'pk.eyJ1IjoicGxlbW9kYSIsImEiOiJjaW5xYm9hMTgxMDZudTJtM3h3Yml3NzRnIn0.jGUDNxGa3imVwz8DEoF58A';
 
 // Create the map object with your mapId and token,
 // referencing the DOM element where you want the map to go.
