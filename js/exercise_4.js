@@ -64,6 +64,7 @@ featureLayer.on('ready', function(){
   })
 })
 
-map.on('click',function(){
-  	$('#sidebar').fadOut(200);
-})
+map.on('click',function(e){
+	$('#info').fadeOut(200);
+  $('#info').empty();
+});
