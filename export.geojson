@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-05-02T20:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/131139728",
+      "properties": {
+        "@id": "way/131139728",
+        "building": "yes",
+        "name": "Bechtler Museum Of Modern Art",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.847529,
+              35.2248044
+            ],
+            [
+              -80.8477567,
+              35.2246437
+            ],
+            [
+              -80.8475128,
+              35.2244131
+            ],
+            [
+              -80.8472851,
+              35.2245737
+            ],
+            [
+              -80.847529,
+              35.2248044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131139755",
+      "properties": {
+        "@id": "way/131139755",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Mint Museum Uptown",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.8479892,
+              35.2243199
+            ],
+            [
+              -80.848662,
+              35.2249427
+            ],
+            [
+              -80.8489429,
+              35.2247403
+            ],
+            [
+              -80.84827,
+              35.2241175
+            ],
+            [
+              -80.8479892,
+              35.2243199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174231925",
+      "properties": {
+        "@id": "way/174231925",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Discovery Place",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.8408142,
+              35.2289696
+            ],
+            [
+              -80.8402993,
+              35.2293421
+            ],
+            [
+              -80.8403636,
+              35.2293596
+            ],
+            [
+              -80.8404387,
+              35.2294034
+            ],
+            [
+              -80.8405031,
+              35.2294691
+            ],
+            [
+              -80.8406158,
+              35.2295217
+            ],
+            [
+              -80.8407499,
+              35.2295393
+            ],
+            [
+              -80.8408411,
+              35.2295743
+            ],
+            [
+              -80.8409921,
+              35.2296755
+            ],
+            [
+              -80.8409054,
+              35.2297321
+            ],
+            [
+              -80.8410141,
+              35.2298136
+            ],
+            [
+              -80.8408733,
+              35.2299334
+            ],
+            [
+              -80.8409537,
+              35.2300035
+            ],
+            [
+              -80.840825,
+              35.2300868
+            ],
+            [
+              -80.841002,
+              35.2302445
+            ],
+            [
+              -80.8413318,
+              35.230002
+            ],
+            [
+              -80.8413493,
+              35.2299891
+            ],
+            [
+              -80.8415974,
+              35.2298065
+            ],
+            [
+              -80.8416296,
+              35.2297496
+            ],
+            [
+              -80.8416098,
+              35.2296944
+            ],
+            [
+              -80.8415669,
+              35.2296418
+            ],
+            [
+              -80.8415079,
+              35.2296155
+            ],
+            [
+              -80.8414258,
+              35.229548
+            ],
+            [
+              -80.8408142,
+              35.2289696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303566121",
+      "properties": {
+        "@id": "way/303566121",
+        "building": "yes",
+        "name": "Carolina's Aviation Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.9302423,
+              35.2197896
+            ],
+            [
+              -80.9302546,
+              35.219743
+            ],
+            [
+              -80.9300774,
+              35.2195701
+            ],
+            [
+              -80.9299478,
+              35.2195473
+            ],
+            [
+              -80.9299382,
+              35.2195841
+            ],
+            [
+              -80.9298581,
+              35.21957
+            ],
+            [
+              -80.9298486,
+              35.2196062
+            ],
+            [
+              -80.9297655,
+              35.2195916
+            ],
+            [
+              -80.9297352,
+              35.2196986
+            ],
+            [
+              -80.9302423,
+              35.2197896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367912234",
+      "properties": {
+        "@id": "node/367912234",
+        "addr:state": "NC",
+        "ele": "196",
+        "gnis:county_name": "Mecklenburg",
+        "gnis:feature_id": "990063",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Mint Museum of Art",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8147931,
+          35.1973658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367912246",
+      "properties": {
+        "@id": "node/367912246",
+        "addr:state": "NC",
+        "ele": "241",
+        "gnis:county_name": "Mecklenburg",
+        "gnis:feature_id": "1985682",
+        "gnis:import_uuid": "57871b70-0100-4405-bb30-88b2e001a944",
+        "gnis:reviewed": "no",
+        "name": "Levine Museum of the New South",
+        "source": "USGS Geonames",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8383319,
+          35.2286035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1443710699",
+      "properties": {
+        "@id": "node/1443710699",
+        "name": "The Light Factory",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8393915,
+          35.2287237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1443710716",
+      "properties": {
+        "@id": "node/1443710716",
+        "name": "NASCAR Hall of Fame",
+        "source": "Bing",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8442624,
+          35.2210505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1443710737",
+      "properties": {
+        "@id": "node/1443710737",
+        "name": "Harvey B. Gantt Center for African American Arts & Culture",
+        "source": "Bing",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8481625,
+          35.2233403
+        ]
+      }
+    }
+  ]
+}
