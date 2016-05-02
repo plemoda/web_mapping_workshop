@@ -56,7 +56,6 @@ var clickHandler = function(e){
       info += '</div>';
       $('#info') += '</div>';
     })
-)
 
 featureLayer.on('ready', function(){
   this.eachLayer(function(layer){
